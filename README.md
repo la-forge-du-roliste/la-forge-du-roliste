@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🔥 La Forge du Rôliste
 
-<!--
-**la-forge-du-roliste/la-forge-du-roliste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Création de modules et d'outils pour Foundry VTT.
 
-Here are some ideas to get you started:
+## 🧩 Mes modules
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🆓 Gratuits
+- Internal Activities
+- Remote Action
+- PureCanva
+- Automatic Token Image
+
+### ✨ Étincelle
+- Multi-Hit Spell Level Scaler
+- Secondary AoE
+
+### 🔨 Forgeron
+- Buff on Trigger
+- Persistent Zones
+- TableDeck
+
+## 🔗 Rejoindre la Forge
+
+🔥 Patreon
+💬 Discord
+
+## ⚙️ À propos
+
+Projet indépendant porté par une seule personne.
+Le développement est assisté par des outils d'IA.
